@@ -1,4 +1,12 @@
 # RezStrafe-v4.0
+DANGER!
+
+=======
+
+If you will join server, when using autostrafe you can get ban
+
+=======
+
 In this version realized DuckSpam
 
 But, before enable duckspam, move Half-Life window a little bit to up, and bind right mouse button for "DUCK"
